@@ -10,3 +10,5 @@ numpy
 pydantic
 azure-identity
 opencv-python-headless
+imutils==0.5.4
+requests
