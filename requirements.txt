@@ -1,3 +1,4 @@
 fastapi
 azure.messaging.webpubsubservice
 fastapi_socketio
+uvicorn
